@@ -1,6 +1,6 @@
 package Mukesh;
 
-import io.restassured.module.mockmvc.RestAssuredMockMvc.*;
+import io.restassured.RestAssured;
 import org.testng.annotations.Test;
 
 
